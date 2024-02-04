@@ -1,0 +1,1 @@
+Schematic for mks baratron pressure switch 51B with trigger point at 10 Torr.
